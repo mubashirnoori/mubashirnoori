@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mubashirnoori
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Google Data Analytics
+- 💞️ I’m looking to collaborate on R, SQL, PowerBi, Tableau, Excel
+- 📫 Reach me , mubashirbaltistani1@gmail.com
